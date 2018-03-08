@@ -1,6 +1,8 @@
 # filereader
 Read file Alice-in-Wonderland.txt on MacBook Pro 2.3 GHz Intel Core i5 by wasuthun wanaphongthipakorn(5910545841)
-----------------------------------------------|-------:
+
+Task|Time
+-----------------------------------------------|-------:
 Read file 52539 chars at a time to String | 1.022675 sec.
 Read file 52539 chars at a time to StringBuilder | 0.003319 sec.
 Read file line at a time using BufferedReader | 0.018784 sec.
